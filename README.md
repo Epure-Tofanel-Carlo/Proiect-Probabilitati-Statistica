@@ -12,3 +12,5 @@
     fPcond: Calcul probabilitate conditionata pentru X si Y.
     fPcomun: Calcul probabilitate legata de perechea (X,Y).
     + Alte functii specifice pentru lucrul cu variabile aleatoare continue in R shiny si animate.
+ ![image](https://github.com/Epure-Tofanel-Carlo/Proiect-Probabilitati-Statistica/assets/129178776/e0e78afc-95a4-4634-8b97-b993d2f5cd58)
+   
